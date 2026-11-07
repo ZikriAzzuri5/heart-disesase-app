@@ -50,7 +50,6 @@ heart-disease-app/
 ├── heart_disease_model.pkl     # Model Logistic Regression (pre-trained)
 ├── heart_disease_scaler.pkl    # StandardScaler (pre-fitted)
 ├── requirements.txt            # Daftar dependensi Python
-└── README.md                   # Dokumentasi proyek (file ini)
 ```
 
 ### Penjelasan File Utama
